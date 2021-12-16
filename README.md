@@ -1,8 +1,17 @@
 ### Hi there.. <a target="_blank" href="https://www.facebook.com/mtmartbd"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+```bash
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("I'm Muhammad Rezaul Karim")
+}
+```
+### I'm Muhammad Rezaul Karim
+[![go](https://user-images.githubusercontent.com/77927449/146407452-778fc415-757c-4b1f-baf7-fc4fd720df1a.jpg)](https://www.youtube.com/watch?v=JBplfuvzFRE&list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl)
 
 
-
-> Design is my Passion, Coding is hobby
 
 [![Github](https://img.shields.io/github/followers/irezaul?label=Follow&style=social)](https://github.com/irezaul)
 ![Profile views](https://gpvc.arturio.dev/irezaul)
@@ -22,8 +31,3 @@
    </table>
 </p>
 
-- ❤️ Technology Is My Love 😍
-- 😎 Programming Is My Passion 🙃
-- ⚔ Keyboard Is MY Weapon 😏
-- 🥰 Perfection Is My Habit 🌍
-- ⚡ Fun fact: listening to Music, and reading books
