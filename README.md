@@ -1,4 +1,4 @@
-### Hi there.. <a target="_blank" href="https://www.facebook.com/mtmartbd"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 
 ```go
 package main
 
